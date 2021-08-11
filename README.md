@@ -1,4 +1,4 @@
 # Scratch-game
-小型機台GAME
-# game
-愛吃鬼 AND 飛機王
+Small Machine GAME
+There are two games in this machine
+Yummy Ghost And airplane king
